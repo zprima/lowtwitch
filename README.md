@@ -1,1 +1,3 @@
 # lowtwitch
+
+npm run start
